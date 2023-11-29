@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+ .pokedex-app {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  
+  background: linear-gradient(135deg, #fff 10%, #fe4c3e 10% 25%,#ff6e3f 25% 75%, #fe4c3e 75% 90%, #fff 90%);
+ }
+
+ .header {
+  width: 100%;
+  height: 10%;
+  position: absolute;
+ }
